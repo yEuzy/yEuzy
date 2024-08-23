@@ -1,5 +1,7 @@
 <style>
-  
+  div{
+    color: red;
+  }
 </style>
 <body>
   <div><h1>Ola...</h1>
